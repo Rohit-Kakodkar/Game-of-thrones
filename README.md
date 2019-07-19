@@ -9,6 +9,7 @@ Calculate inverted index for words given a list of files.
 Consider a 2 files given
 
 **File 1** - *This is a primary file*
+
 **File 2** - *This is a secondary file*
 
 Then to calculate reverse index
